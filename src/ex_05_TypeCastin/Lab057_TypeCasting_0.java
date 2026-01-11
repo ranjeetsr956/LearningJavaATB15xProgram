@@ -1,0 +1,16 @@
+package ex_05_TypeCastin;
+
+public class Lab057_TypeCasting_0 {
+
+    public static void main(String[] args) {
+
+        byte b  = 10;
+        int a = b;  //  Valid syntax - Implicit - Casting Widening - JVM/ JAVA
+        int a1 = (int)b;  //  Valid syntax - Explicit - Widening
+
+
+
+
+
+    }
+}
